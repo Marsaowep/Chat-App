@@ -6,7 +6,7 @@ npm install express@4
 npm install socket.io 
 
 # Contribution
-Zirui Li, UCID: 30065140
+Zirui Li
 # Usage
 1. Please connect to the Internet to use Bootstrap within the code.
 2. Run nodeJS server using
