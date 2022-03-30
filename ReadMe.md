@@ -1,5 +1,5 @@
 # Name
-Chat Room for SENG 513 W22 A2
+Chat Room 
 # Installation
 socket.io and express are already contained in node_modules packages. If not working, please using following commands to install
 npm install express@4
